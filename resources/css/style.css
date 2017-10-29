@@ -5,29 +5,51 @@
 }
 
 h1 {
-  color: white;
-  font-size: 80px;
-  font-weight: 800;
+  color: #EA3414;
+  font-size: 90px;
+  font-weight: 400;
   line-height: 1;
+  margin-bottom: 20px;
 }
 
 h2 {
-  color: white;
+  color: #EA3414;
+  font-weight: 400;
+  line-height: 1;
+  font-size: 80px;
+  margin-top: 70px;
+  margin-bottom: 0;
 }
 
 p {
-  color: #ABB2B9;
+  color: #EA3414;
+  font-weight: 300;
+  font-size: 20px;
 }
 
 a {
-  color: #F74000;
+  color: #FF8300;
+  font-size: 15px;
+}
+
+.video {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.phone {
+  margin-top: 30px;
+  color: #12C5F1;
+  position: relative;
 }
 
 h3 {
-  color: #ABB2B9;
-}
-
-#hidden {
-  font-style: italic;
-  font-weight: 600;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  width: 100%;
+  background-color: transparent;
+  line-height: 1;
+  font-size: 30px;
+  font-weight: 800;
 }
