@@ -1,0 +1,33 @@
+* {
+  background-color: black;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 80px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+h2 {
+  color: white;
+}
+
+p {
+  color: #ABB2B9;
+}
+
+a {
+  color: #F74000;
+}
+
+h3 {
+  color: #ABB2B9;
+}
+
+#hidden {
+  font-style: italic;
+  font-weight: 600;
+}
